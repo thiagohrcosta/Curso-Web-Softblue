@@ -1,0 +1,42 @@
+.logo{
+    display: block;
+}
+
+
+
+/* Fundamentos */
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headerStyle{
+    text-align: center;
+}
+
+.bodyDiv-Fundamentos{
+    padding: 5px;
+    margin-left: 120px;
+    margin-right:120px;
+}
+
+.button-Fundamentos{
+    margin-left: 10px;
+    display: block;
+    padding: 5px;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 24%;
+}
+
+.link1{
+    color: white;
+    text-decoration: none;
+}
